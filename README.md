@@ -8,5 +8,5 @@
 
 # 目录
 
+- [在 React 中使用 Redux](https://github.com/collinxz-coder/blog/issues/2)
 - [Redux 快速上手指南](https://github.com/collinxz-coder/blog/issues/1)
-
