@@ -8,6 +8,7 @@
 
 # 目录
 
+- [Normalizr 中文文档](https://github.com/collinxz-coder/blog/issues/4)
+- [Webstorm 添加 React Native 调试菜单](https://github.com/collinxz-coder/blog/issues/3)
 - [在 React 中使用 Redux](https://github.com/collinxz-coder/blog/issues/2)
 - [Redux 快速上手指南](https://github.com/collinxz-coder/blog/issues/1)
-- [Webstorm 添加 React Native 调试菜单](https://github.com/collinxz-coder/blog/issues/3)
